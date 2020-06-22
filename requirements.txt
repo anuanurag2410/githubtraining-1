@@ -4,3 +4,6 @@ Design
 logo
 colours
 emojis
+
+Chat feature
+Dark mode
