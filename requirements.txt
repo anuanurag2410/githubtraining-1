@@ -8,3 +8,6 @@ emojis
 Chat feature
 Dark mode
 Video Call
+
+PAyment
+Send money
