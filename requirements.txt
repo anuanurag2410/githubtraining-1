@@ -7,3 +7,4 @@ emojis
 
 Chat feature
 Dark mode
+Video Call
